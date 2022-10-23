@@ -6,7 +6,7 @@ Smit</a></h1>
 <p align="left"> <a href="https://twitter.com/gol_smit" target="blank"><img src="https://img.shields.io/twitter/follow/gol_smit?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 </a>
 
 - 🔭 I’m currently working as Software Engineer at <a href="https://www.styret.com/" target="blank">Styret.Com</a>
