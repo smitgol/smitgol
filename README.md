@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://astonishing-gumption-bea981.netlify.app/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://smitgol.netlify.app/" target="blank">
 Smit</a></h1>
 <h3 align="center">I build things for web2 & web3. </h3>
 
