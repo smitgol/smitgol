@@ -11,17 +11,11 @@ Smit</a></h1>
 
 - 🔭 I’m currently working as Software Engineer
 
-- ❤️️ I love React.js and Python
-
 - 🥑 I do Open Source contribution in free time
-
-- 🌱 I’m currently learning Solidity and Ether.js
-
-- 💬 Ask me about **Reactjs & Python**
 
 - 📫 How to reach me **smitgol007@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1g6EJhW9uzVTs8RIAJbHp1fDXkpkxAk1_/view" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1nFJ3WRT72gX8AARiYRrWfZ1vOMr3BMpf/view?usp=sharing" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
